@@ -1,0 +1,16 @@
+*{
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(28, 40, 53);
+}
+.container{
+  
+  position: absolute;
+}
+#btn{
+border: 1px solid red;
+display: flex;
+
+}
